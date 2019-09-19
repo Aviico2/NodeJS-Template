@@ -12,4 +12,4 @@ Steps To use:-
 
 3.Type npm install.
 
-4.Now type node app.js and its run On loaclhost:3000.
+4.Now type node app.js and its run On localhost:3000.
